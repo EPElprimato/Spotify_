@@ -1,0 +1,14 @@
+body {
+    background-color: #282828;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
